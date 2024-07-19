@@ -1,0 +1,5 @@
+// batかsh
+//usernameなどは実際のものに変えてください。
+
+git clone https://github.com/username/project-template.git
+cd project-template
